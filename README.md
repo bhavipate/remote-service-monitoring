@@ -2,7 +2,7 @@
 
 1. In you shell of VM just type:
 
-curl -o automateMonitoring.sh https://raw.githubusercontent.com/A7ryan/Lyrcon_Cloud_DevOps_Internship_Tasks/main/automateServiceMonitoring/automateMonitoring.sh && chmod +x automateMonitoring.sh && ./automateMonitoring.sh
+curl -o automateMonitoring.sh https://raw.githubusercontent.com/bhavipate/remote-service-monitoring/main/automateMonitoring.sh && chmod +x automateMonitoring.sh && ./automateMonitoring.sh
 
 
 # Now your python script is running to check services 
