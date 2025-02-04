@@ -23,7 +23,7 @@ echo "Downloading service.txt..."
 curl -o service.txt https://raw.githubusercontent.com/bhavipate/remote-service-monitoring/main/service.txt
 
 echo "Downloading checkServices.py..."
-curl -o checkServices.py https://raw.githubusercontent.com/A7ryan/Lyrcon_Cloud_DevOps_Internship_Tasks/main/monitorRemoteVMServices/checkServices.py
+curl -o checkServices.py https://raw.githubusercontent.com/bhavipate/remote-service-monitoring/main/checkServices.py
 
 echo "Running checkServices.py..."
 python3 checkServices.py
